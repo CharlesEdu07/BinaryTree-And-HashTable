@@ -22,7 +22,7 @@ projeto-analise-algoritmos/
 │ ├── nome_algoritmo/
 │ │ └── algoritmo.c
 ├── graficos/
-│ └── nome_algoritmo/
+│ ├── nome_algoritmo/
 │ │ └── nome_caso/
 └── README.md
 </pre>
