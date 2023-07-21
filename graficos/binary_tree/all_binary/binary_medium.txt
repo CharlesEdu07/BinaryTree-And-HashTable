@@ -1,0 +1,9 @@
+100 192 3.84 300 100 50 binary_medium-50-100.txt
+200 212 4.24 300 100 50 binary_medium-50-200.txt
+300 258 5.16 300 200 50 binary_medium-50-300.txt
+400 232 4.64 300 200 50 binary_medium-50-400.txt
+500 240 4.8 300 200 50 binary_medium-50-500.txt
+600 252 5.04 300 200 50 binary_medium-50-600.txt
+700 310 6.2 500 200 50 binary_medium-50-700.txt
+800 286 5.72 400 200 50 binary_medium-50-800.txt
+900 278 5.56 400 200 50 binary_medium-50-900.txt

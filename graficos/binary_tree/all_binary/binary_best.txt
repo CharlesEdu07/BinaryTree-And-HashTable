@@ -1,0 +1,9 @@
+100 92 1.84 100 0 50 binary_best-50-100.txt
+200 96 1.92 200 0 50 binary_best-50-200.txt
+300 100 2 200 0 50 binary_best-50-300.txt
+400 90 1.8 100 0 50 binary_best-50-400.txt
+500 86 1.72 200 0 50 binary_best-50-500.txt
+600 72 1.44 200 0 50 binary_best-50-600.txt
+700 82 1.64 100 0 50 binary_best-50-700.txt
+800 86 1.72 100 0 50 binary_best-50-800.txt
+900 330 6.6 200 0 50 binary_best-50-900.txt

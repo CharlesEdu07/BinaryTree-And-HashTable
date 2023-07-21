@@ -1,0 +1,9 @@
+100 158 3.16 200 100 50 hash_medium-50-100.txt
+200 122 2.44 300 0 50 hash_medium-50-200.txt
+300 122 2.44 200 100 50 hash_medium-50-300.txt
+400 116 2.32 200 100 50 hash_medium-50-400.txt
+500 422 8.44 200 100 50 hash_medium-50-500.txt
+600 118 2.36 200 100 50 hash_medium-50-600.txt
+700 108 2.16 200 0 50 hash_medium-50-700.txt
+800 140 2.8 200 100 50 hash_medium-50-800.txt
+900 108 2.16 200 100 50 hash_medium-50-900.txt
